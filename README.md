@@ -48,7 +48,4 @@ This is a console-based Pac-Man clone developed in C using the Windows API for r
 This project is open-source and available under the MIT License.
 
 ---
-### Author
-[Your Name]  
-Feel free to contribute and suggest improvements!
 
